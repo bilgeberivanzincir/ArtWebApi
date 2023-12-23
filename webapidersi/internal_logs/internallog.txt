@@ -1,0 +1,92 @@
+2023-09-02 20:03:20.5360 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-02 20:03:20.6069 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-02 20:03:20.6209 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-02 20:03:20.6209 Info Configuration initialized.
+2023-09-02 20:13:54.7091 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-02 20:13:54.7293 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-02 20:13:54.7293 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-02 20:13:54.7459 Info Configuration initialized.
+2023-09-04 15:49:44.1558 Info AppDomain Shutting down. LogFactory closing...
+2023-09-04 15:49:44.1886 Info LogFactory has been closed.
+2023-09-18 16:51:45.1639 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 16:51:45.2358 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 16:51:45.2527 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 16:51:45.2688 Info Configuration initialized.
+2023-09-18 16:54:45.4531 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 16:54:45.4844 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 16:54:45.5087 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 16:54:45.5276 Info Configuration initialized.
+2023-09-18 16:58:50.1676 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 16:58:50.1814 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 16:58:50.1918 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 16:58:50.1918 Info Configuration initialized.
+2023-09-18 16:58:51.0943 Info AppDomain Shutting down. LogFactory closing...
+2023-09-18 16:58:51.1037 Info LogFactory has been closed.
+2023-09-18 17:00:03.8483 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 17:00:03.8483 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 17:00:03.8691 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 17:00:03.8691 Info Configuration initialized.
+2023-09-18 17:00:07.3237 Info AppDomain Shutting down. LogFactory closing...
+2023-09-18 17:00:07.3237 Info LogFactory has been closed.
+2023-09-18 17:07:51.6034 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 17:07:51.6180 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 17:07:51.6180 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 17:07:51.6339 Info Configuration initialized.
+2023-09-18 17:07:52.6168 Info AppDomain Shutting down. LogFactory closing...
+2023-09-18 17:07:52.6258 Info LogFactory has been closed.
+2023-09-18 17:08:11.7936 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 17:08:11.8080 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 17:08:11.8163 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 17:08:11.8163 Info Configuration initialized.
+2023-09-18 17:08:12.5902 Info AppDomain Shutting down. LogFactory closing...
+2023-09-18 17:08:12.5902 Info LogFactory has been closed.
+2023-09-18 17:08:27.1709 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 17:08:27.1872 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 17:08:27.1872 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 17:08:27.2058 Info Configuration initialized.
+2023-09-18 17:08:30.4360 Info AppDomain Shutting down. LogFactory closing...
+2023-09-18 17:08:30.4360 Info LogFactory has been closed.
+2023-09-18 17:12:41.2883 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 17:12:41.3016 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 17:12:41.3101 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 17:12:41.3101 Info Configuration initialized.
+2023-09-18 17:12:42.0466 Info AppDomain Shutting down. LogFactory closing...
+2023-09-18 17:12:42.0552 Info LogFactory has been closed.
+2023-09-18 17:12:51.4215 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 17:12:51.4355 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 17:12:51.4441 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 17:12:51.4441 Info Configuration initialized.
+2023-09-18 17:13:01.2107 Info AppDomain Shutting down. LogFactory closing...
+2023-09-18 17:13:01.2107 Info LogFactory has been closed.
+2023-09-18 17:55:00.7403 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 17:55:00.7714 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 17:55:00.7892 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 17:55:00.8028 Info Configuration initialized.
+2023-09-18 18:15:59.9613 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 18:15:59.9935 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 18:16:00.0081 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 18:16:00.0268 Info Configuration initialized.
+2023-09-18 19:02:25.3350 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 19:02:25.3487 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 19:02:25.3487 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 19:02:25.3663 Info Configuration initialized.
+2023-09-18 19:02:26.2202 Info AppDomain Shutting down. LogFactory closing...
+2023-09-18 19:02:26.2281 Info LogFactory has been closed.
+2023-09-18 19:02:37.0472 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 19:02:37.0604 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 19:02:37.0604 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 19:02:37.0797 Info Configuration initialized.
+2023-09-18 19:02:38.1227 Info AppDomain Shutting down. LogFactory closing...
+2023-09-18 19:02:38.1313 Info LogFactory has been closed.
+2023-09-18 19:02:46.9916 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 19:02:47.0210 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 19:02:47.0376 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 19:02:47.0376 Info Configuration initialized.
+2023-09-18 20:36:10.9766 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-18 20:36:11.0452 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-18 20:36:11.0452 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-18 20:36:11.0682 Info Configuration initialized.
+2023-09-27 14:36:06.1080 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-27 14:36:06.1795 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-27 14:36:06.1965 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\zinci\source\repos\webapidersi\webapidersi\nlog.config
+2023-09-27 14:36:06.2123 Info Configuration initialized.
